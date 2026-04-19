@@ -132,10 +132,4 @@ jupyter notebook notebooks/TP2_main.ipynb
 
 > **Note** : Les données Hi-Seq et ECG ne sont pas incluses dans ce repo (taille volumineuse). Elles sont disponibles sur les plateformes publiques TCGA et PhysioNet.
 
----
 
-## 👤 Auteurs
-
-**Carlos Tsambou Jiofack** · **Sandra Yawoa Atopia** · **Yulong Zhang**  
-Maîtrise en génie logiciel / Sciences des données — Université de Sherbrooke  
-[github.com/CarlosTsambou](https://github.com/CarlosTsambou)
