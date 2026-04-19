@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environnements
+.env
+venv/
+env/
+
+# Données (trop volumineuses pour GitHub)
+data/
+*.csv
+*.h5
+*.hdf5
+*.pkl
+
+# Modèles sauvegardés
+*.keras
+*.h5
+saved_models/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Anaconda
+anaconda_projects/
